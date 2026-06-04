@@ -1,6 +1,6 @@
 # Gerenciador de Tabela de Símbolos
 
-Projeto da disciplina **Componentes de Compiladores** (PBL): módulo que gerencia escopos aninhados usando uma **pilha de hash tables** (tabelas de símbolos em Python: `dict`), com os métodos `declarar(variavel, tipo)` e `buscar(variavel)`.
+Projeto da disciplina ** de Compiladores** (PBL): módulo que gerencia escopos aninhados usando uma **pilha de hash tables** (tabelas de símbolos em Python: `dict`), com os métodos `declarar(variavel, tipo)` e `buscar(variavel)`.
 
 ## Requisitos
 
@@ -142,34 +142,6 @@ tabela.sair_escopo()
 - **`buscar(variavel)`** — percorre a pilha do topo para a base; erro se não existir.
 - **`entrar_escopo()`** / **`sair_escopo()`** — gerenciam escopos aninhados.
 
-## Publicar no GitHub
-
-```bash
-git init
-git add .
-git commit -m "Gerenciador de tabela de símbolos - PBL Compiladores"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-git push -u origin main
-```
-
-Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelo seu repositório público.
-
-## Relatório técnico (PDF)
-
-O arquivo `relatorio.md` contém as seções obrigatórias:
-
-1. Introdução  
-2. Metodologia de Implementação  
-3. Casos de Teste  
-
-Converta para PDF (ex.: abrir no VS Code / Typora / Pandoc, ou “Imprimir → Salvar como PDF”) e envie junto com o link do repositório.
-
-```bash
-# Opcional, se tiver Pandoc instalado:
-pandoc relatorio.md -o relatorio.pdf
-```
-
 ## Autores
 
-Preencha com os nomes e RAs do grupo (até 3 integrantes).
+Nathan Rodrigues da Costa Silva, Nathan Rodrigues da Costa Silva e Thalita Pereira de Andrade.
