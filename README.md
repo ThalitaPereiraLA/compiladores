@@ -1,6 +1,6 @@
 # Gerenciador de Tabela de Símbolos
 
-Projeto da disciplina ** de Compiladores** (PBL): módulo que gerencia escopos aninhados usando uma **pilha de hash tables** (tabelas de símbolos em Python: `dict`), com os métodos `declarar(variavel, tipo)` e `buscar(variavel)`.
+Projeto da disciplina **de Compiladores** (PBL): módulo que gerencia escopos aninhados usando uma **pilha de hash tables** (tabelas de símbolos em Python: `dict`), com os métodos `declarar(variavel, tipo)` e `buscar(variavel)`.
 
 ## Requisitos
 
