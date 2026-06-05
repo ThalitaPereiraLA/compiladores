@@ -27,7 +27,7 @@ py --version
 ├── symbol_table.py     # GerenciadorTabelaSimbolos (pilha + hash tables)
 ├── main.py             # demonstração e modo interativo
 ├── test_symbol_table.py # testes automatizados (unittest)
-├── relatorio.md        # rascunho do relatório (exportar para PDF)
+├── relatorio.pdf        # relatório em pdf
 └── .gitignore
 ```
 
