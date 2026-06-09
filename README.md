@@ -144,4 +144,4 @@ tabela.sair_escopo()
 
 ## Autores
 
-Nathan Rodrigues da Costa Silva, Nathan Rodrigues da Costa Silva e Thalita Pereira de Andrade.
+Nathan Rodrigues da Costa Silva, Rildo Silva de Lima Júnior e Thalita Pereira de Andrade.
